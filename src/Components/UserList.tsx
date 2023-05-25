@@ -14,7 +14,7 @@ export default function UserList() {
     const [users, setUsers] = useState([] as any)
 
     const fetchUserData = () => {
-      fetch("https://jjrambus23-urban-disco-w6r64w5w9vxf5w9g-7073.preview.app.github.dev/")
+      fetch("https://jjrambus23-glorious-guide-g949pgrg674c97qr-7073.preview.app.github.dev/")
         .then(response => {
           return response.json() as any;
         })

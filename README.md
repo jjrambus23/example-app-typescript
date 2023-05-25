@@ -13,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Bonus if you add any sort of navigation between grids.  That could be true navigation between grid components, or a selector of some sort to show the different grids.
 3. Bonus for good styling, but don’t go overboard.  This assessment is more to demonstrate coding ability than design.
 
+NOTE FROM JOSH: DUE TO HAVING A BROKEN LAPTOP I HAD TO USE A FRIEND'S WORK LAPTOP AND CODE FROM GITHUB CODESPACES. THE URL TO ACCESS THE API SEEMS TO BE BROKEN BUT ALL OF THE CONTROLLERS ARE BUILT OUT.
 ## Available Scripts
 
 In the project directory, you can run:
